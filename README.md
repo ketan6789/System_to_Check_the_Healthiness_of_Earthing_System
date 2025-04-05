@@ -1,5 +1,11 @@
 # Earthing Health Monitoring System
 
+
+
+https://github.com/user-attachments/assets/37b62411-7779-48db-ba10-77b12e59e71d
+
+
+
 A sensor-based system designed to monitor the **health of earthing systems** in electrical poles. This project detects and reports key parameters like **earth resistance**, **leakage current**, and **earthing continuity**, ensuring safety and compliance in electrical infrastructure.
 
 ## 🔍 Project Overview
